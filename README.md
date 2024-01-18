@@ -2,7 +2,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@teslenkooleg2017](https://medium.com/@teslenkooleg2017)
 
-### Blogs posts
+### My latest posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Create NPM Library Using Existing Angular Code](https://levelup.gitconnected.com/how-to-create-npm-library-using-existing-angular-code-f6adc491693a?source=rss-2e5f5b703d04------2)
 - [Stop Using Slack for Sensitive Information](https://levelup.gitconnected.com/stop-using-slack-for-sensitive-information-ae91b9f1769b?source=rss-2e5f5b703d04------2)
