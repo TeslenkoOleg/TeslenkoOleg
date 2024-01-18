@@ -4,6 +4,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create NPM Library Using Existing Angular Code](https://levelup.gitconnected.com/how-to-create-npm-library-using-existing-angular-code-f6adc491693a?source=rss-2e5f5b703d04------2)
+- [Stop Using Slack for Sensitive Information](https://levelup.gitconnected.com/stop-using-slack-for-sensitive-information-ae91b9f1769b?source=rss-2e5f5b703d04------2)
+- [Mastering Nested Reactive Forms in Angular](https://javascript.plainenglish.io/mastering-nested-reactive-forms-in-angular-477365e5ce11?source=rss-2e5f5b703d04------2)
+- [How to Integrate Stripe into an Angular Application](https://javascript.plainenglish.io/how-to-integrate-stripe-into-an-angular-application-d6ae9667e63d?source=rss-2e5f5b703d04------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
