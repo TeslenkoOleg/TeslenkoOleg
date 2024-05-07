@@ -4,10 +4,10 @@
 
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Responsive Layouts using Angular, React, or Vue](https://levelup.gitconnected.com/how-to-build-responsive-layouts-using-angular-react-or-vue-23968710aab8?source=rss-2e5f5b703d04------2)
+- [Avoid Common Mistakes Using a Docker Container](https://levelup.gitconnected.com/avoid-common-mistakes-using-a-docker-container-b661233d3905?source=rss-2e5f5b703d04------2)
+- [Handling 100GB Data in Real Time with Node.js and Bloom Filters in Redis](https://levelup.gitconnected.com/handling-100gb-data-in-real-time-with-node-js-and-bloom-filters-in-redis-bdb80746cd96?source=rss-2e5f5b703d04------2)
 - [Angular Google Maps API](https://levelup.gitconnected.com/angular-google-maps-api-11af43f2fea4?source=rss-2e5f5b703d04------2)
-- [How to Create NPM Library Using Existing Angular Code](https://levelup.gitconnected.com/how-to-create-npm-library-using-existing-angular-code-f6adc491693a?source=rss-2e5f5b703d04------2)
-- [Stop Using Slack for Sensitive Information](https://levelup.gitconnected.com/stop-using-slack-for-sensitive-information-ae91b9f1769b?source=rss-2e5f5b703d04------2)
-- [Mastering Nested Reactive Forms in Angular](https://javascript.plainenglish.io/mastering-nested-reactive-forms-in-angular-477365e5ce11?source=rss-2e5f5b703d04------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
