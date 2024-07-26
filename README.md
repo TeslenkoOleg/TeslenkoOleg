@@ -4,10 +4,10 @@
 
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [No Code Needed: Efficiently Download, Clean, and Insert Files into Databases Using Command Line](https://medium.com/t-slen/no-code-needed-efficiently-download-clean-and-insert-files-into-databases-using-command-line-973e7a485f96?source=rss-2e5f5b703d04------2)
 - [Breaking Down Big Data: Efficient Search Strategies for 10+GB Files](https://medium.com/t-slen/breaking-down-big-data-efficient-search-strategies-for-10-gb-files-2a6f14522853?source=rss-2e5f5b703d04------2)
 - [How to Build Responsive Layouts using Angular, React, or Vue](https://levelup.gitconnected.com/how-to-build-responsive-layouts-using-angular-react-or-vue-23968710aab8?source=rss-2e5f5b703d04------2)
 - [Avoid Common Mistakes Using a Docker Container](https://levelup.gitconnected.com/avoid-common-mistakes-using-a-docker-container-b661233d3905?source=rss-2e5f5b703d04------2)
-- [Handling 100GB Data in Real Time with Node.js and Bloom Filters in Redis](https://levelup.gitconnected.com/handling-100gb-data-in-real-time-with-node-js-and-bloom-filters-in-redis-bdb80746cd96?source=rss-2e5f5b703d04------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
