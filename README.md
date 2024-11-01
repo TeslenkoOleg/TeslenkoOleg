@@ -4,10 +4,10 @@
 
 ### My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Auth using NestJs](https://medium.com/t-slen/google-auth-using-nestjs-2643af563f8e?source=rss-2e5f5b703d04------2)
 - [Aerospike UDF &lpar;User-Defined Function&rpar;](https://medium.com/t-slen/aerospike-udf-user-defined-function-4274c27e1bde?source=rss-2e5f5b703d04------2)
 - [No Code Needed: Efficiently Download, Clean, and Insert Files into Databases Using Command Line](https://medium.com/t-slen/no-code-needed-efficiently-download-clean-and-insert-files-into-databases-using-command-line-973e7a485f96?source=rss-2e5f5b703d04------2)
 - [Breaking Down Big Data: Efficient Search Strategies for 10+GB Files](https://medium.com/t-slen/breaking-down-big-data-efficient-search-strategies-for-10-gb-files-2a6f14522853?source=rss-2e5f5b703d04------2)
-- [How to Build Responsive Layouts using Angular, React, or Vue](https://levelup.gitconnected.com/how-to-build-responsive-layouts-using-angular-react-or-vue-23968710aab8?source=rss-2e5f5b703d04------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
